@@ -1,0 +1,7 @@
+{
+  "name": "SPElecCamera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
